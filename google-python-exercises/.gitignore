@@ -12,3 +12,9 @@ __pycache__/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Logpuzzle downloaded images
+imgs/
+*.jpg
+*.jpeg
+*.png
